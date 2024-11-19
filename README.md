@@ -39,12 +39,29 @@ The Airbnb Clone Project is a full-stack web application that replicates core fu
 | **Listing Detailed View** | Provides detailed information about a selected property.                                         | Full property description, image carousel, amenities list, location map, and booking button.     |
 | **Simple Checkout View**  | A streamlined interface for completing the booking process.                                      | Booking summary, user input for personal information, payment gateway integration.               |
 
-### Importance of User-Friendly Design in a Booking System
-A user-friendly design is crucial in a booking system because it:
-- Enhances user satisfaction and increases booking conversion rates.
-- Reduces the learning curve for new users, making the application accessible to a wider audience.
-- Minimizes errors during the booking process, such as selecting incorrect dates or entering invalid payment details.
-- Builds trust and credibility, encouraging repeat users and recommendations.
+### Color Styles and Typography
+**Color Styles:**
+1. Primary Color: `#FF385C` (Airbnb Pink)
+2. Secondary Color: `#008489` (Airbnb Teal)
+3. Background Color: `#FFFFFF` (White)
+4. Text Color: `#484848` (Dark Gray)
+5. Accent Color: `#F2F2F2` (Light Gray)
+
+**Typography:**
+1. Font Family: `Circular`
+   - Font Weight: `400 (Regular)`, `600 (Semi-Bold)`, `800 (Bold)`
+   - Font Size: 
+     - Headings: `32px`, `24px`, `18px`
+     - Body Text: `16px`, `14px`
+     - Captions: `12px`
+
+### Importance of Identifying Design Properties
+Understanding the design properties of a mockup is essential because:
+- **Consistency:** Ensures visual consistency across the application, aligning with the brand identity.
+- **Efficiency:** Speeds up the development process by providing clear design guidelines.
+- **User Experience:** Enhances usability by adhering to tested design principles in the mockup.
+- **Collaboration:** Facilitates effective communication between designers and developers, reducing misunderstandings.
+- **Scalability:** Allows for easier updates and maintenance of the application’s UI/UX.
 
 ---
 

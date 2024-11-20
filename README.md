@@ -88,14 +88,56 @@ Identifying design properties of a mockup design is crucial because:
 | **Product Owner**      | Define project requirements and prioritize features to ensure alignment with user needs and business goals.              | Bridge the gap between stakeholders and developers by clearly defining the product vision.                      |
 | **Scrum Master**       | Facilitate Agile ceremonies, resolve team impediments, and ensure adherence to Scrum principles.                         | Enhance productivity and ensure the team operates efficiently within the Agile framework.                       |
 
----
-
 ## Importance of Clear Role Definitions
 Defining roles and responsibilities ensures:
 1. Accountability within the team.
 2. Smooth collaboration by reducing overlap and confusion.
 3. Efficient resource allocation and task prioritization.
 4. A shared understanding of project goals, leading to better outcomes.
+
+## UI Component Patterns
+
+### Planned Components
+1. **Navbar**
+   - A responsive navigation bar that allows users to navigate between key pages like Home, Listings, Profile, and Checkout.
+   - Includes a search bar and user authentication options (login/signup).
+   - Adapts to both desktop and mobile views.
+
+2. **Property Card**
+   - A reusable card component to display individual property details.
+   - Key features:
+     - Thumbnail image of the property.
+     - Property name, location, and price.
+     - Rating and short description.
+   - Designed to be scalable for multiple properties.
+
+3. **Footer**
+   - A global footer for the application.
+   - Contains:
+     - Links to About Us, Contact, Privacy Policy, and Terms of Service.
+     - Social media icons for branding.
+     - Copyright information.
+
+4. **Button Components**
+   - Reusable buttons for common actions like booking, submitting forms, and navigating between pages.
+   - Variants:
+     - Primary buttons (e.g., "Book Now").
+     - Secondary buttons (e.g., "Learn More").
+     - Icon buttons (e.g., filters, share).
+
+5. **Modal**
+   - A popup component for:
+     - Login and signup forms.
+     - Viewing property images in full screen.
+     - Error or success messages.
+
+### Importance of UI Components
+Using UI components ensures:
+- **Consistency:** Reusable components provide a unified look and feel across the application.
+- **Efficiency:** Modular design speeds up development and reduces duplication.
+- **Scalability:** Easy to maintain and update when new features or styles are introduced.
+- **User Experience:** Ensures users can interact with the application intuitively and seamlessly.
+
 ---
 
 ## Status
